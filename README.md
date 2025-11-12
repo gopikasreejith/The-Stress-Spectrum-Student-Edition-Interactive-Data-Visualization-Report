@@ -18,4 +18,4 @@ Visual elements include bar charts, pie charts, and donut charts for comparison 
 Provided actionable insights into student stress sources, enabling institutions to identify at-risk groups and enhance student support systems.
 
 ## 🔗click here 
-https://github.com/gopikasreejith/The-Stress-Spectrum-Student-Edition-Interactive-Data-Visualization-Report/blob/main/The%20Stress%20Spectrum.pbix
+https://github.com/gopikasreejith/The-Stress-Spectrum-Student-Edition-Interactive-Data-Visualization-Report/blob/main/The%20Stress%20Spectrum%20Student%20Edition%20Report.pdf
