@@ -8,11 +8,11 @@ Learning Environment Factors: Examines academic workload, confidence levels, and
 Peer & Relationship Stress: Reveals that relationship issues and lack of teacher-student support significantly contribute to stress.
 Bullying and Future Concerns: Visualizes bullying levels and anxiety over future careers, showcasing moderate concern levels and varying bullying experiences.
 
-##Tools & Techniques:
+## Tools & Techniques::
 
 Power BI for interactive dashboard creation and data visualization
 Data cleaning, transformation, and DAX measures for analytical accuracy
 Visual elements include bar charts, pie charts, and donut charts for comparison and trend analysis
 
-##Outcome:
+## Outcome:
 Provided actionable insights into student stress sources, enabling institutions to identify at-risk groups and enhance student support systems.
